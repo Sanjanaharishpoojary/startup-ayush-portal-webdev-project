@@ -3,12 +3,20 @@
     padding: 0.5rem 0;
 }
 #image-size-1 {
-    width:12.54rem;
-    height:3rem;
+    width:9.313rem;
+    height:2.227rem;
 }
 #image-size-2 {
-    width:13rem;
-    height:2rem;
+    width:10.838rem;
+    height:1.204rem;
+}
+#follow-section {
+    width: 5.875rem;
+    height: 1.5rem;
+}
+.follow-icon {
+    padding-left:0rem;
+    padding-right:0rem;
 }
 .header-bottom {
     background-color: #181818;
