@@ -2,7 +2,6 @@
 
 This repository contains the source code for a clone of the Ayush Startup India Portal. The Ayush Startup India Portal is a platform that encourages entrepreneurship in the Ayush Sector by providing support to startups and entrepreneurs.
 
- the HTML, CSS, and JavaScript files in a text editor to modify the webpage according to your needs.
 
 ## Contribution
 
